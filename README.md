@@ -14,7 +14,7 @@ This analysis aims to answer the following questions:
 - Which products generate the highest sales?
 - Which countries contribute the most to sales?
 - Which customers generate the highest sales?
-- What patterns can be observed in customer purchasing behavior?
+
 
 ## Dataset
 
