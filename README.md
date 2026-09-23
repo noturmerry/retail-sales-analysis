@@ -113,6 +113,8 @@ The Power BI dashboard provides an interactive view of:
 - Top 10 Countries by Sales Amount
 - Top 10 Customers by Sales Amount
 
+![Retail Sales Performance Dashboard](images/retail_sales_dashboard.png)
+
 ## Tools Used
 
 - **Python**
