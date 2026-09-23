@@ -140,3 +140,14 @@ Business Metrics
 Power BI Dashboard
    ↓
 Business Insights
+
+## Limitations
+
+- The dataset covers transactions from December 2010 to December 2011, with December 2011 containing only partial-month data.
+- Customer-level analysis is limited to transactions with available CustomerID values.
+- Sales analysis excludes cancellations, non-positive quantities, non-positive unit prices, and non-product transaction items such as postage and fees.
+- The analysis is descriptive and does not establish causal relationships.
+
+## Conclusion
+
+This project demonstrates an end-to-end retail sales analysis workflow, from data cleaning and validation to exploratory analysis, business KPI development, and dashboard creation. The findings highlight monthly sales patterns, high-performing products and markets, and differences in customer purchasing activity.
