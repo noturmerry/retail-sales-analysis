@@ -140,7 +140,7 @@ Business Metrics
 Power BI Dashboard
    ↓
 Business Insights
-
+```
 ## Limitations
 
 - The dataset covers transactions from December 2010 to December 2011, with December 2011 containing only partial-month data.
